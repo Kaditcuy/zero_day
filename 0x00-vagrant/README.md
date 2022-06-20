@@ -1,0 +1,1 @@
+This is to show the linux distribution provided by vagrant
